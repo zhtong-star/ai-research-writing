@@ -922,6 +922,9 @@ Highlight the core novelty. Ensure the connection logic makes sense."""
 ````
 ![由上述prompt生成的效果图](images/nano-banana.png)
 
+**可选**
+需要输出XML格式，方便我导入到Draw.io，注意配色和文字方框细节等关键信息元素保持一致，不能一楼任何一部分，一定要仔细检查输出后可以被Draw,io正确识别的完整代码
+````
 ---
 
 ## 实验绘图推荐
