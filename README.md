@@ -919,7 +919,7 @@ Your task is to generate a professional "Illustration" (main figure for the pape
 
 **Generation Instruction:**
 Highlight the core novelty. Ensure the connection logic makes sense."""
-````
+
 ![由上述prompt生成的效果图](images/nano-banana.png)
 
 **可选**
